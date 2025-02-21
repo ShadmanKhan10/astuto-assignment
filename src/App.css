@@ -1,0 +1,112 @@
+.MuiTable-root {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.MuiTableHead-root {
+  background-color: #f5f5f5;
+}
+
+.MuiTableHead-root .MuiTableCell-root {
+  font-weight: bold;
+  color: #333;
+  font-size: 1.2rem;
+  font-family: "Gilroy-SemiBold";
+}
+
+.MuiTableRow-root {
+  transition: background-color 0.2s ease-in-out;
+}
+
+.MuiTableRow-root:hover {
+  background-color: #f9f9f9;
+}
+
+.MuiTableCell-root {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  height: 2rem;
+}
+
+.MuiCheckbox-root {
+  color: #1976d2;
+}
+
+.MuiCheckbox-root.Mui-checked {
+  color: #0d47a1;
+}
+
+.MuiAvatar-root {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.MuiTooltip-tooltip {
+  font-size: 14px;
+  background-color: #333;
+  color: white;
+}
+
+.name-column {
+  display: flex;
+  align-items: center;
+}
+
+.select-all-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.teams-text {
+  color: blue;
+  cursor: pointer;
+}
+.status-entry,
+.team-entry {
+  background-color: #007bff;
+  color: white;
+  padding: 4px 10px;
+  box-sizing: border-box;
+  border-radius: 18px;
+  display: inline-block;
+  font-size: 0.9rem;
+}
+.team-entry {
+  margin-right: 5px;
+  font-family: "Gilroy-Medium";
+}
+.team-entry-light {
+  background-color: #007bff;
+  color: black;
+}
+.team-entry-lighter {
+  background-color: #68affa;
+  color: blue;
+}
+.team-entry-lightest {
+  background-color: #d8eafe;
+  color: rgb(58, 58, 255);
+}
+.tooltip {
+  color: black;
+  cursor: pointer;
+  background-color: #e8e8e8;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 50%;
+  height: 10px;
+  width: 10px;
+}
+.pagination-btn {
+  padding: 8px 16px;
+  border: none;
+  background-color: #1976d2;
+  color: white;
+  border-radius: 5px;
+  font-family: "Gilroy-SemiBold";
+  font-size: 0.9rem;
+}

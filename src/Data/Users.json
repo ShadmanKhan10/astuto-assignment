@@ -1,0 +1,296 @@
+{
+  "columns": [
+    { "id": "name", "label": "Name" },
+    { "id": "status", "label": "Status" },
+    { "id": "role", "label": "Role" },
+    { "id": "email", "label": "Email" },
+    { "id": "teams", "label": "Teams" }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "image": "pic1.jpg",
+      "username": "@kaushik_kishore",
+      "fullName": "Kaushik Kishore",
+      "status": "Working",
+      "role": "Software Engineer",
+      "email": "kaushik.kishore@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "pic2.jpg",
+      "username": "@harishikesh_kakade",
+      "fullName": "Harishikesh Kakade",
+      "status": "On Leave",
+      "role": "UI UX Designer",
+      "email": "h.kakade@example.com",
+      "teams": [
+        "Design",
+        "Research",
+        "Prototyping",
+        "Testing",
+        "Development",
+        "QA",
+        "Support",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "pic5.jpg",
+      "username": "@nithin_j",
+      "fullName": "Nithin J",
+      "status": "At Lunch",
+      "role": "Software Engineer",
+      "email": "nithin.j@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "pic4.jpg",
+      "username": "@pooja_sr",
+      "fullName": "Pooja SR",
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "pooja.sr@example.com",
+      "teams": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Epsilon",
+        "Zeta",
+        "Eta",
+        "Theta"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "pic5.jpg",
+      "username": "@raghav_pandey",
+      "fullName": "Raghav Pandey",
+      "status": "Working",
+      "role": "Software Engineer",
+      "email": "raghav.pandey@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "pic1.jpg",
+      "username": "@atharva_shinde",
+      "fullName": "Atharva Shinde",
+      "status": "At Lunch",
+      "role": "Software Engineer",
+      "email": "atharva.shinde@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "pic5.jpg",
+      "username": "@harkirat_s",
+      "fullName": "Harkirat Singh",
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "h.singh@example.com",
+      "teams": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Epsilon",
+        "Zeta",
+        "Eta",
+        "Theta"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "pic2.jpg",
+      "username": "@md_shadaab",
+      "fullName": "Muhammad Shadaab",
+      "status": "On Leave",
+      "role": "Data Engineer",
+      "email": "md.shadaab@example.com",
+      "teams": [
+        "Design",
+        "Research",
+        "Prototyping",
+        "Testing",
+        "Development",
+        "QA",
+        "Support",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "pic1.jpg",
+      "username": "@jvn_sai_sharath",
+      "fullName": "JVN Sai Sharath",
+      "status": "At Lunch",
+      "role": "Software Engineer",
+      "email": "jvn.sai@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "pic5.jpg",
+      "username": "@rahul_bose",
+      "fullName": "Rahul Bose",
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "rahul.bose@example.com",
+      "teams": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Epsilon",
+        "Zeta",
+        "Eta",
+        "Theta"
+      ]
+    },
+    {
+      "id": 11,
+      "image": "pic2.jpg",
+      "username": "@raj_kumar",
+      "fullName": "Raj Kumar",
+      "status": "On Leave",
+      "role": "UI UX Designer",
+      "email": "raj.kumar@example.com",
+      "teams": [
+        "Design",
+        "Research",
+        "Prototyping",
+        "Testing",
+        "Development",
+        "QA",
+        "Support",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 12,
+      "image": "pic5.jpg",
+      "username": "@pratik_sharma",
+      "fullName": "Pratik Sharma",
+      "status": "At Lunch",
+      "role": "Software Engineer",
+      "email": "pratik.sharma@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "id": 13,
+      "image": "pic4.jpg",
+      "username": "@swati_s",
+      "fullName": "Swati Singh",
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "swati.s@example.com",
+      "teams": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Epsilon",
+        "Zeta",
+        "Eta",
+        "Theta"
+      ]
+    },
+    {
+      "id": 14,
+      "image": "pic2.jpg",
+      "username": "@aakash_pandey",
+      "fullName": "Aakash Pandey",
+      "status": "On Leave",
+      "role": "UI UX Designer",
+      "email": "aakash.pandey@example.com",
+      "teams": [
+        "Design",
+        "Research",
+        "Prototyping",
+        "Testing",
+        "Development",
+        "QA",
+        "Support",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 15,
+      "image": "pic1.jpg",
+      "username": "@sanskar_garg",
+      "fullName": "Sanskar Garg",
+      "status": "At Lunch",
+      "role": "Software Engineer",
+      "email": "sanskar.garg@example.com",
+      "teams": [
+        "Frontend",
+        "Backend",
+        "Mobile",
+        "Web",
+        "Cloud",
+        "AI",
+        "Data",
+        "Security"
+      ]
+    }
+  ]
+}
