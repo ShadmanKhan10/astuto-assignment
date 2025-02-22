@@ -10,6 +10,5 @@ Follow the steps below to clone, install dependencies, and run the project local
 
 ```sh
 git clone https://github.com/ShadmanKhan10/astuto-assignment.git
-cd astuto-assignment
 npm install
 npm run dev
