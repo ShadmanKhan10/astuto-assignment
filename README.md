@@ -1,8 +1,23 @@
-# React + Vite
+# Astuto Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using **React** with **Vite** for fast development and optimized performance.
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here are some preview images of the project:
+
+![Astuto Image 1](public/assets/astutoImage1.png)
+![Astuto Image 2](public/assets/astutoImage2.png)
+![Astuto Image 3](public/assets/astutoImage3.png)
+![Astuto Image 4](public/assets/astutoImage4.png)
+
+## Getting Started
+
+Follow the steps below to clone, install dependencies, and run the project locally.
+
+### Clone the Repository
+
+```sh
+git clone https://github.com/ShadmanKhan10/astuto-assignment.git
+npm install
+npm run dev
